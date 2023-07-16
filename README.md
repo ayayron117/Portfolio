@@ -1,10 +1,14 @@
 # Aaron S. Mohammed - Portfolio
 
 ## About
-Hi, welcome to my portfolio! I'm a bioinformatician with over 4 years of programming experience. I created this to showcase some of my work over the past few years. I graduated with my master's degree in Fall of 2022 from the University of South Florida (USF). Since October 3rd 2022, I manage the Innovative Genomics & Bioinformatics Core (IGBC) in the Lynch Comprehensive Cancer Research Center (LCCRC) of Creighton University. My primary responsibility is to fulfill all NGS data analysis service requests for users of the IGBC. These data analysis services include RNA seq, scRNA seq, and WGS data analysis. In the past, I worked as an IT research assistant at USF from August 2020 - October 2021. That role involved assisting research labs with various programming tasks. Here are the degrees I have:
+<div align='justify'>
+Hi, welcome to my portfolio! I'm a bioinformatician with over 4 years of programming experience. I created this to showcase some of my work over the past few years. I graduated with my master's degree in Fall of 2022 from the University of South Florida (USF). Since October 3rd 2022, I manage the Innovative Genomics & Bioinformatics Core (IGBC) in the Lynch Comprehensive Cancer Research Center (LCCRC) of Creighton University. My primary responsibility is to fulfill all NGS data analysis service requests for users of the IGBC. These data analysis services include RNA seq, scRNA seq, and WGS data analysis. In the past, I worked as an IT research assistant at USF from August 2020 - October 2021. That role involved assisting research labs with various programming tasks. Here are the degrees I have:  
+</div>
+<br/> 
+
 - Master of Science degree in Bioinformatics & Computational Biology
 - Bachelor of Science degree in Physics with a minor in Chemistry
-
+  
 Displayed below are summaries of my projects and links you can click to get more details.
 
 ## *C.elegan* Aging Atlas
