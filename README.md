@@ -43,7 +43,7 @@ https://arxiv.org/pdf/1702.06515.pdf
 
 ## Automation of Brainstorm Protocols 
 **Code:**  
-**Description:** This is a MATLAB tool that can be used to automate and customized Brainstorm protocols without having to interact with the GUI. Brainstorm is a MATLAB program used to analyze EEG data.
+**Description:** This is a MATLAB tool that can be used to automate and customize various Brainstorm protocols without having to interact with the GUI. Brainstorm is a MATLAB program for analyzing EEG data.
 
 ## Metagenomics Project
 
