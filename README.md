@@ -32,10 +32,26 @@ Displayed below are summaries of my projects and links you can click to get more
 
 ## Disorder Analysis of Proteins in a 2600-Year-Old Human Brain
 **Paper:** https://www.mdpi.com/2079-7737/11/12/1704  
-**Description:** This project involved anlysis of proteins detected in the "Heslington Brain", a 2,600-year-old human brain that was found in England.
+**Description:** Analysis of intrinsically disordered proteins that were detected in the "Heslington Brain", a 2,600-year-old human brain that was found in England. Various disorder predictors and databases were utilized to carry out this analysis. 
+
+## Phase Boundaries of Quantum Impurity Models
+**Paper:** https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.045103  
+https://arxiv.org/pdf/1702.06515.pdf    
+**Description:** Investigation of the phase boundaries of the quantum phase transitions involved with two models of the Kondo effect.
+
+## Single Cell RNA Seq Analysis Projects
+
+## Bulk RNA Seq Analysis Projects
 
 ## IDPAnalysis - R Package for Disorder Analysis of Proteins
 
-## Automation of Brainstorm Protocols
+## NCI-60 Project
 
-## Metagenomics Project for my Computational Genomics Course in Grad School
+## Automation of Brainstorm Protocols 
+**Code:**  
+**Description:** This is a MATLAB tool that can be used to automate and customized Brainstorm protocols without having to interact with the GUI. Brainstorm is a MATLAB program used to analyze EEG data.
+
+## Metagenomics Project
+
+
+
