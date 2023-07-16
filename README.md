@@ -9,7 +9,7 @@ Welcome to my portfolio! I'm a bioinformatician with about 1 year of experience 
 - Master of Science degree in Bioinformatics & Computational Biology
 - Bachelor of Science degree in Physics with a minor in Chemistry
   
-Displayed below are summaries of my projects and links you can click to get more details.
+Displayed below are summaries of my projects and links you can click to get more details!
 
 ## *C.elegan* Aging Atlas
 **Code:**  
