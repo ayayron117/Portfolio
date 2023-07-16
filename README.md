@@ -14,13 +14,7 @@ Displayed below are summaries of my projects and links you can click to get more
 ## *C.elegan* Aging Atlas
 **Paper:** https://www.biorxiv.org/content/10.1101/2023.02.28.530490v1.full  
 **Code:**  
-**Description:** The purpose of this project was to build a transcriptomic aging atlas that could be used to investigate and compare the age related changes associated with some of these mechanisms at the cellular level. Single nucleus RNA sequencing was utilized to capture the transcriptomes of worms that were subjected to the pro-longevity mechanisms. Nuclei from cells in various tissues were sequenced on certain days to track the transcriptomic changes that occurred as the worms aged. My contributions to this project include the following:
-
-- Aging-clocks for all tissues
-- Tissue-specific age prediction and correlations for wild type and long-lived strains
-- Weighted gene co-expression network analysis to determine module eigengenes, consensus modules, and module trait correlations
-- Gene enrichment analysis
-- RShiny app for exploration of the transcriptomic aging atlas
+**Description:** Transcriptomic aging atlas for *C.elegan* worms that could be used for investigating and comparing age related changes that are associated with pro-longevity mechanisms at the cellular level. 
 
 ## RShiny App for *C.elegan* Aging Atlas
 **App:** https://agingc.shinyapps.io/Aging_Atlas/  
@@ -39,7 +33,7 @@ Displayed below are summaries of my projects and links you can click to get more
 https://arxiv.org/pdf/1702.06515.pdf    
 **Description:** Investigation of the phase boundaries of the quantum phase transitions involved with two models of the Kondo effect.
 
-## Single Cell RNA Seq Analysis Projects
+## Other Single Cell RNA Seq Analysis Projects
 
 ## Bulk RNA Seq Analysis Projects
 
