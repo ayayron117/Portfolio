@@ -10,12 +10,10 @@ I have experience with a number of programming languages, but the ones I am high
 - Bulk RNA seq analysis
 - DNA seq analysis
 - Linux command-line & shell scripting w/ BASH
-- Machine learning using these R packages:  & 
-- 
+- Machine learning
 
 Here are a list of tools I am skilled with:
 - RStudio and JupyterLab
- 
 - Seurat
 - SingleR
 - SingleCellExperiment
