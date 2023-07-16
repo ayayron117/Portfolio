@@ -12,8 +12,8 @@ Welcome to my portfolio! I'm a bioinformatician with about 1 year of experience 
 Displayed below are summaries of my projects and links you can click to get more details!
 
 ## *C.elegan* Aging Atlas
+**Paper:** https://www.biorxiv.org/content/10.1101/2023.02.28.530490v1.full  
 **Code:**  
-**Paper:**  
 **Description:** The purpose of this project was to build a transcriptomic aging atlas that could be used to investigate and compare the age related changes associated with some of these mechanisms at the cellular level. Single nucleus RNA sequencing was utilized to capture the transcriptomes of worms that were subjected to the pro-longevity mechanisms. Nuclei from cells in various tissues were sequenced on certain days to track the transcriptomic changes that occurred as the worms aged. My contributions to this project include the following:
 
 - Aging-clocks for all tissues
@@ -23,11 +23,16 @@ Displayed below are summaries of my projects and links you can click to get more
 - RShiny app for exploration of the transcriptomic aging atlas
 
 ## RShiny App for *C.elegan* Aging Atlas
-**App:** [Cellular Atlas of Worm Aging](https://agingc.shinyapps.io/Aging_Atlas/)  
+**App:** https://agingc.shinyapps.io/Aging_Atlas/  
 **Code:**  
-**Description:**  
+**Description:**  This app can be used to explore gene expression and APA scores of genes from various genotypes.
+<p align="center">
+<img width="500" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/8873f983-b2ae-4c2d-b9a4-ff9115360980">
+</p>
 
 ## Disorder Analysis of Proteins in a 2600-Year-Old Human Brain
+**Paper:** https://www.mdpi.com/2079-7737/11/12/1704  
+**Description:** This project involved anlysis of proteins detected in the "Heslington Brain", a 2,600-year-old human brain that was found in England.
 
 ## IDPAnalysis - R Package for Disorder Analysis of Proteins
 
