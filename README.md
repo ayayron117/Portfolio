@@ -25,7 +25,7 @@ Displayed below are summaries of my projects and links you can click to get more
 ## RShiny App for *C.elegan* Aging Atlas
 **App:** https://agingc.shinyapps.io/Aging_Atlas/  
 **Code:**  
-**Description:**  This app can be used to explore gene expression and APA scores of genes from various genotypes.
+**Description:**  This app can be used to compare gene expression and APA scores of genes from various genotypes.
 <p align="center">
 <img width="500" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/8873f983-b2ae-4c2d-b9a4-ff9115360980">
 </p>
