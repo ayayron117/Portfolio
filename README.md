@@ -13,7 +13,7 @@ Below are examples of some of my work over the past few years.
 
 ## *C.elegan* Aging Atlas 
 **Paper:** https://www.biorxiv.org/content/10.1101/2023.02.28.530490v1.full  
-**Code:** https://github.com/ayayron117/CAWA  
+**Code:**  
 **Description:** Transcriptomic aging atlas for *C.elegan* worms that could be used for investigating and comparing age related changes that are associated with pro-longevity mechanisms at the cellular level. 
 <p align="center">
   <img width="600" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/36a975fa-035f-48e1-beb2-d6e2cccd2433">
@@ -21,7 +21,7 @@ Below are examples of some of my work over the past few years.
 
 ## RShiny App for *C.elegan* Aging Atlas
 **App:** https://agingc.shinyapps.io/Aging_Atlas/  
-**Code:**  
+**Code:** https://github.com/ayayron117/CAWA 
 **Description:**  This app can be used to compare gene expression and APA scores of genes from various genotypes.
 <p align="center">
   <img width="500" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/8873f983-b2ae-4c2d-b9a4-ff9115360980">
