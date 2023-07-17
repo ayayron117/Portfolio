@@ -16,7 +16,7 @@ Below are examples of some of my work over the past few years.
 **Code:** https://github.com/ayayron117/CAWA  
 **Description:** Transcriptomic aging atlas for *C.elegan* worms that could be used for investigating and comparing age related changes that are associated with pro-longevity mechanisms at the cellular level. 
 <p align="center">
-<img width="600" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/36a975fa-035f-48e1-beb2-d6e2cccd2433">
+  <img width="600" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/36a975fa-035f-48e1-beb2-d6e2cccd2433">
 </p>
 
 ## RShiny App for *C.elegan* Aging Atlas
@@ -24,41 +24,61 @@ Below are examples of some of my work over the past few years.
 **Code:**  
 **Description:**  This app can be used to compare gene expression and APA scores of genes from various genotypes.
 <p align="center">
-<img width="500" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/8873f983-b2ae-4c2d-b9a4-ff9115360980">
+  <img width="500" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/8873f983-b2ae-4c2d-b9a4-ff9115360980">
 </p>
 
 ## Disorder Analysis of Proteins in a 2600-Year-Old Human Brain
 **Paper:** https://www.mdpi.com/2079-7737/11/12/1704  
 **Description:** Analysis of intrinsically disordered proteins that were detected in the "Heslington Brain", a 2,600-year-old human brain that was found in England. Various disorder predictors and databases were utilized. 
-
-## Phase Boundaries of Quantum Impurity Models
-**Paper:** https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.045103  
-https://arxiv.org/pdf/1702.06515.pdf    
-**Description:** Investigation of the phase boundaries of the quantum phase transitions involved with two models of the Kondo effect.
+<p align="center">
+  <img width="600" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/0ea4dd0b-b031-46f9-9bb8-eb4d3adc66de">
+</p>
 
 ## Single Cell RNA Seq Analysis Scripts
 **Code:**  
-**Description:**  
+**Description:** A collection of scripts I wrote while carrying out scRNA seq analysis.
+<p align="center">
+  <img width="500" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/9dc56ee3-6c67-4bd2-acf4-317013c18d24">
+</p>
 
 ## Bulk RNA Seq Analysis Scripts
 **Code:**  
-**Description:**  
+**Description:** A collection of scripts I wrote while carrying out bulk RNA seq analysis.
+<p align="center">
+  <img width="500" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/a9c30a28-14b1-40c1-9852-f502c4908df5">
+</p>
 
 ## IDPAnalysis - R Package for Disorder Analysis of Proteins
-**Code:**  
-**Description:**  
+**Code:** 
+**Description:** This is a package I created as an assignment for a course I took as a graduate student.
+<p align="center">
+  <img width="500" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/aceb22f1-d669-41e0-b2b0-f6985a40b344">
+</p>
 
 ## NCI-60 Project
 **Code:**  
-**Description:**  
+**Description:**  The purpose of this project was to determine if gene expression could be used to predict drug activity for various FDA approved drugs.
+<p align="center">
+</p>
 
 ## Automation of Brainstorm Protocols 
 **Code:**  
 **Description:** This is a MATLAB tool that can be used to automate and customize various Brainstorm protocols without having to interact with the GUI. Brainstorm is a MATLAB program for analyzing EEG data.
 
+## Phase Boundaries of Quantum Impurity Models
+**Paper:** https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.045103  
+https://arxiv.org/pdf/1702.06515.pdf    
+**Description:** Investigation of the phase boundaries of quantum phase transitions involved with the Kondo effect.
+<p align="center">
+  <img width="400" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/08b9d580-86d9-45ac-9a28-34e5293d4d25">
+</p>
+
 ## Metagenomics Project
 **Code:**  
-**Description:**  
+**Description:**  This is a script I wrote to replicate the results of a metagenomics paperas an assignment for a class I took in graduate school.
+<p align="center">
+  <img width="600" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/2ace395c-b4ae-4c6a-83d4-57f7463a8ad2">
+</p>
 
 
 
