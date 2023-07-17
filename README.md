@@ -31,7 +31,7 @@ Below are examples of some of my work over the past few years.
 **Paper:** https://www.mdpi.com/2079-7737/11/12/1704  
 **Description:** Analysis of intrinsically disordered proteins that were detected in the "Heslington Brain", a 2,600-year-old human brain that was found in England. Various disorder predictors and databases were utilized. 
 <p align="center">
-  <img width="600" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/0ea4dd0b-b031-46f9-9bb8-eb4d3adc66de">
+  <img width="500" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/07c01e9b-5841-4ac6-95bb-5b5540b6bd65">
 </p>
 
 ## Single Cell RNA Seq Analysis Scripts
