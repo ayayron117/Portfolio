@@ -1,6 +1,6 @@
 # Aaron S. Mohammed - Portfolio
 
-## In construction
+## Under construction
 
 ## About
 <div align='justify'>
