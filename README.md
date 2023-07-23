@@ -23,7 +23,7 @@ Below are examples of some of my work over the past few years.
   <img width="300" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/2c3b96bc-aac6-4f5c-a953-c38d05461b06">
 </p>
 
-## RShiny App for *C.elegan* Aging Atlas
+## RShiny App for Aging Atlas
 **App:** https://agingc.shinyapps.io/Aging_Atlas/  
 **Code:** https://github.com/ayayron117/CAWA  
 **Description:**  This app can be used to compare gene expression and APA scores of genes from various genotypes.
