@@ -13,7 +13,7 @@ Welcome to my portfolio! I'm a bioinformatician with about 1 year of experience 
 
 Below are examples of some of my work over the past few years.
 
-## *C.elegan* Aging Atlas 
+## Transcriptomic Aging Atlas 
 **Paper:** https://www.biorxiv.org/content/10.1101/2023.02.28.530490v1.full  
 **Code:** https://github.com/ayayron117/Aging_Atlas  
 **Description:** Transcriptomic aging atlas for *C.elegan* worms that could be used for investigating and comparing age related changes that are associated with pro-longevity mechanisms at the cellular level. 
