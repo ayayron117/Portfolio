@@ -19,6 +19,8 @@ Below are examples of some of my work over the past few years.
 **Description:** Transcriptomic aging atlas for *C.elegan* worms that could be used for investigating and comparing age related changes that are associated with pro-longevity mechanisms at the cellular level. 
 <p align="center">
   <img width="500" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/bd43e4dc-92cd-4b05-b565-7713ab174f55">
+  <img width="300" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/3cd1b420-591c-4859-ba88-dae6a68e78a2">
+
 </p>
 
 ## RShiny App for *C.elegan* Aging Atlas
