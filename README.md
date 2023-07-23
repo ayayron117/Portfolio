@@ -53,8 +53,8 @@ Below are examples of some of my work over the past few years.
 </p>
 
 ## Machine Learning Project
-**Code:** https://github.com/ayayron117/machine_learning_project
-**Description:**  Prediction of drug activity on cancer cell lines.
+**Code:** https://github.com/ayayron117/machine_learning_project  
+**Description:**  Prediction of drug activity on cancer cell lines.  
 <p align="center">
 </p>
 
