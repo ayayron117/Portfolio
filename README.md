@@ -28,7 +28,7 @@ Below are examples of some of my work over the past few years.
 **Code:** https://github.com/ayayron117/CAWA  
 **Description:**  This app can be used to compare gene expression and APA scores of genes from various genotypes.
 <p align="center">
-  <img width="500" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/1e8a4a21-92dd-4405-ab3e-1e10e3853ffb">
+  <img width="400" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/1e8a4a21-92dd-4405-ab3e-1e10e3853ffb">
 </p>
 
 ## Disorder Analysis of Proteins in a 2600-Year-Old Human Brain
