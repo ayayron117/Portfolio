@@ -52,14 +52,14 @@ Below are examples of some of my work over the past few years.
   <img width="500" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/aceb22f1-d669-41e0-b2b0-f6985a40b344">
 </p>
 
-## NCI-60 Project
-**Code:**  
-**Description:**  The purpose of this project was to determine if gene expression could be used to predict drug activity for various FDA approved drugs.
+## Machine Learning Project
+**Code:** https://github.com/ayayron117/machine_learning_project
+**Description:**  Prediction of drug activity on cancer cell lines.
 <p align="center">
 </p>
 
 ## Automation of Brainstorm Protocols 
-**Code:**  
+**Code:** https://github.com/ayayron117/Brainstorm_automation
 **Description:** This is a MATLAB tool that can be used to automate and customize various Brainstorm protocols without having to interact with the GUI. Brainstorm is a MATLAB program for analyzing EEG data.
 
 ## Disorder Analysis of Proteins in a 2600-Year-Old Human Brain
