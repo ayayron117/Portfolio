@@ -32,21 +32,21 @@ Below are examples of some of my work over the past few years.
 </p>
 
 ## Single Cell RNA Seq Analysis Scripts
-**Code:**  
+**Code:** https://github.com/ayayron117/scRNA-seq  
 **Description:** A collection of scripts I wrote while carrying out scRNA seq analysis.
 <p align="center">
   <img width="500" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/9dc56ee3-6c67-4bd2-acf4-317013c18d24">
 </p>
 
 ## Bulk RNA Seq Analysis Scripts
-**Code:**  
+**Code:** https://github.com/ayayron117/Bulk_RNA-seq  
 **Description:** A collection of scripts I wrote while carrying out bulk RNA seq analysis.
 <p align="center">
   <img width="500" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/a9c30a28-14b1-40c1-9852-f502c4908df5">
 </p>
 
 ## IDPAnalysis - R Package for Disorder Analysis of Proteins
-**Code:** 
+**Code:** https://github.com/ayayron117/IDPAnalysis  
 **Description:** This is a package I created as an assignment for a course I took as a graduate student.
 <p align="center">
   <img width="500" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/aceb22f1-d669-41e0-b2b0-f6985a40b344">
