@@ -18,9 +18,9 @@ Below are examples of some of my work over the past few years.
 **Code:**  
 **Description:** Transcriptomic aging atlas for *C.elegan* worms that could be used for investigating and comparing age related changes that are associated with pro-longevity mechanisms at the cellular level. 
 <p align="center">
-  <img width="500" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/bd43e4dc-92cd-4b05-b565-7713ab174f55">
-  <img width="300" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/3cd1b420-591c-4859-ba88-dae6a68e78a2">
-
+  <img width="300" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/bd43e4dc-92cd-4b05-b565-7713ab174f55">
+  <img width="200" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/3cd1b420-591c-4859-ba88-dae6a68e78a2">
+  <img width="300" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/2c3b96bc-aac6-4f5c-a953-c38d05461b06">
 </p>
 
 ## RShiny App for *C.elegan* Aging Atlas
@@ -28,7 +28,7 @@ Below are examples of some of my work over the past few years.
 **Code:** https://github.com/ayayron117/CAWA  
 **Description:**  This app can be used to compare gene expression and APA scores of genes from various genotypes.
 <p align="center">
-  <img width="500" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/8873f983-b2ae-4c2d-b9a4-ff9115360980">
+  <img width="500" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/1e8a4a21-92dd-4405-ab3e-1e10e3853ffb">
 </p>
 
 ## Disorder Analysis of Proteins in a 2600-Year-Old Human Brain
