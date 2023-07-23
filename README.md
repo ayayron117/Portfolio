@@ -31,13 +31,6 @@ Below are examples of some of my work over the past few years.
   <img width="400" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/1e8a4a21-92dd-4405-ab3e-1e10e3853ffb">
 </p>
 
-## Disorder Analysis of Proteins in a 2600-Year-Old Human Brain
-**Paper:** https://www.mdpi.com/2079-7737/11/12/1704  
-**Description:** Analysis of intrinsically disordered proteins that were detected in the "Heslington Brain", a 2,600-year-old human brain that was found in England. Various disorder predictors and databases were utilized. 
-<p align="center">
-  <img width="600" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/b723b3d4-6606-4881-b46e-3520233d6f36">
-</p>
-
 ## Single Cell RNA Seq Analysis Scripts
 **Code:**  
 **Description:** A collection of scripts I wrote while carrying out scRNA seq analysis.
@@ -68,6 +61,13 @@ Below are examples of some of my work over the past few years.
 ## Automation of Brainstorm Protocols 
 **Code:**  
 **Description:** This is a MATLAB tool that can be used to automate and customize various Brainstorm protocols without having to interact with the GUI. Brainstorm is a MATLAB program for analyzing EEG data.
+
+## Disorder Analysis of Proteins in a 2600-Year-Old Human Brain
+**Paper:** https://www.mdpi.com/2079-7737/11/12/1704  
+**Description:** Analysis of intrinsically disordered proteins that were detected in the "Heslington Brain", a 2,600-year-old human brain that was found in England. Various disorder predictors and databases were utilized. 
+<p align="center">
+  <img width="600" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/b723b3d4-6606-4881-b46e-3520233d6f36">
+</p>  
 
 ## Phase Boundaries of Quantum Impurity Models
 **Paper:** https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.045103  
