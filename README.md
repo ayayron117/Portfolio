@@ -29,9 +29,9 @@ Below are examples of some of my work over the past few years.
   <img width="400" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/1e8a4a21-92dd-4405-ab3e-1e10e3853ffb">
 </p>
 
-## Single Cell RNA Seq Analysis Scripts
-**Code:** https://github.com/ayayron117/scRNA-seq  
-**Description:** A collection of scripts I wrote while carrying out scRNA seq analysis.  
+## Single Cell RNA-seq Analysis - Embryonic Mouse Hearts
+**Code:** https://github.com/ayayron117/scRNA-seq_mouse_cardiogenesis  
+**Description:** Single cell RNA-seq .  
 <p align="center">
 </p>
 
