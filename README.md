@@ -33,6 +33,7 @@ Below are examples of some of my work over the past few years.
 **Code:** https://github.com/ayayron117/scRNA-seq_mouse_cardiogenesis  
 **Description:** Single cell RNA-seq .  
 <p align="center">
+  <img width="500" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/d4fc6b65-541e-4934-99a7-b854367ae81c">
 </p>
 
 ## Bulk RNA Seq Analysis Scripts
