@@ -11,6 +11,13 @@ Welcome to my portfolio! I'm a bioinformatician with about 1 year of experience 
 
 Below are examples of some of my work over the past few years.
 
+## Single Cell RNA-seq Analysis - Embryonic Mouse Hearts
+**Code:** https://github.com/ayayron117/scRNA-seq_mouse_cardiogenesis  
+**Description:** Single cell RNA-seq analysis for a project investigating how knocking out a certain gene affects heart development.  
+<p align="center">
+  <img width="700" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/d4fc6b65-541e-4934-99a7-b854367ae81c">
+</p>
+
 ## Transcriptomic Aging Atlas 
 **Pre-print:** https://www.biorxiv.org/content/10.1101/2023.02.28.530490v1.full (in review)  
 **Code:** https://github.com/ayayron117/Aging_Atlas  
@@ -27,13 +34,6 @@ Below are examples of some of my work over the past few years.
 **Description:**  This app can be used to compare gene expression and APA scores of genes from various genotypes.
 <p align="center">
   <img width="400" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/1e8a4a21-92dd-4405-ab3e-1e10e3853ffb">
-</p>
-
-## Single Cell RNA-seq Analysis - Embryonic Mouse Hearts
-**Code:** https://github.com/ayayron117/scRNA-seq_mouse_cardiogenesis  
-**Description:** Single cell RNA-seq analysis for a project investigating how knocking out a certain gene affects heart development.  
-<p align="center">
-  <img width="700" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/d4fc6b65-541e-4934-99a7-b854367ae81c">
 </p>
 
 ## Bulk RNA Seq Analysis Scripts
