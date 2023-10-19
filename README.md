@@ -31,7 +31,7 @@ Below are examples of some of my work over the past few years.
 
 ## Single Cell RNA-seq Analysis - Embryonic Mouse Hearts
 **Code:** https://github.com/ayayron117/scRNA-seq_mouse_cardiogenesis  
-**Description:** Single cell RNA-seq .  
+**Description:** Single cell RNA-seq analysis for a project investigating how knocking out a certain gene affects heart development.  
 <p align="center">
   <img width="700" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/d4fc6b65-541e-4934-99a7-b854367ae81c">
 </p>
@@ -69,12 +69,6 @@ Below are examples of some of my work over the past few years.
 **Publication:** https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.045103  
 https://arxiv.org/pdf/1702.06515.pdf    
 **Description:** Investigation of the phase boundaries of quantum phase transitions involved with the Kondo effect.
-<p align="center">
-</p>
-
-## Metagenomics Project
-**Code:**  
-**Description:**  This is a script I wrote to replicate the results of a metagenomics paperas an assignment for a class I took in graduate school.
 <p align="center">
 </p>
 
