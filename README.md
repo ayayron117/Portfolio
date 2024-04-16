@@ -19,7 +19,7 @@ Below are examples of some of my work over the past few years.
 </p>
 
 ## Transcriptomic Aging Atlas 
-**Pre-print:** https://www.biorxiv.org/content/10.1101/2023.02.28.530490v1.full (in review)  
+**Pre-print:** https://www.biorxiv.org/content/10.1101/2023.02.28.530490v1.full (Accepted for publication in Nature Aging)  
 **Code:** https://github.com/ayayron117/Aging_Atlas  
 **Description:** Transcriptomic aging atlas for *C.elegan* worms that could be used for investigating and comparing age related changes that are associated with pro-longevity mechanisms at the cellular level.  
 <p align="center">
