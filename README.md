@@ -20,13 +20,17 @@ Below are examples of some of my work over the past few years. If you'd like to 
 **Skills:** Single cell RNA-seq analysis, machine learning (GLMs), WGCNA, GO & KEGG enrichment  
 **Packages:** Seurat, glmnet, hdWGCNA, clusterProfiler, ggplot2, circlize, pheatmap, UpSetR, dplyr, R.utils  
 
-## RShiny App for Aging Atlas
+## RShiny App for *C.elegan* Aging Atlas
 **App:** https://agingc.shinyapps.io/Aging_Atlas/  
 **Code:** https://github.com/ayayron117/CAWA  
-**Description:**  This app can be used to compare gene expression and APA scores of genes from various genotypes.
+**Description:**  This app can be used to compare gene expression and APA scores of specific genes from various pro-longevity genotypes of *C.elegan* worms.
 <p align="center">
   <img width="400" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/1e8a4a21-92dd-4405-ab3e-1e10e3853ffb">
 </p>
+
+**Languages:** R, HTML, CSS, javascript  
+**Skill:** Web app development  
+**Packages:** shiny, plotly, ggplot2, Seurat
 
 ## Single Cell RNA-seq Analysis - Embryonic Mouse Hearts
 **Code:** https://github.com/ayayron117/scRNA-seq_mouse_cardiogenesis  
