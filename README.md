@@ -2,7 +2,7 @@
 
 ## About
 <div align='justify'>
-Welcome to my portfolio! I'm a bioinformatician who analyzes NGS data for users of the Innovative Genomics & Bioinformatics Core facility (<a href="https://my.creighton.edu/researchservices/corefacilities/innovativegenomicsbioinformaticscore/">IGBC</a>) within the Lynch Cancer Research Center (<a href="https://www.creighton.edu/medicine/research/research-centers-and-institutes/lynch-comprehensive-cancer-research-center">LCRC</a>) at Creighton University. I've held this position since October 3rd, 2022. My degrees include an MS degree in Bioinformatics & Computational Biology and a BS degree in Physics with a minor in Chemistry. 
+Welcome to my portfolio! I'm a bioinformatician who analyzes NGS data for users of the Innovative Genomics & Bioinformatics Core facility (<a href="https://my.creighton.edu/researchservices/corefacilities/innovativegenomicsbioinformaticscore/">IGBC</a>) within the Lynch Cancer Research Center (<a href="https://www.creighton.edu/medicine/research/research-centers-and-institutes/lynch-comprehensive-cancer-research-center">LCRC</a>) at Creighton University. I've held this position since October 3rd, 2022. My degrees include an MS degree in Bioinformatics & Computational Biology and a BS degree in Physics with a minor in Chemistry, both from the University of South Florida. 
 </div>
 <br/> 
 Below are examples of some of my work over the past few years. If you'd like to get in touch me, feel free to connect with me on <a href="https://www.linkedin.com/in/amohammed2/">LinkedIn</a>!
