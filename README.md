@@ -16,8 +16,9 @@ Below are examples of some of my work over the past few years. If you'd like to 
   <img width="300" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/2c3b96bc-aac6-4f5c-a953-c38d05461b06">
 </p>
 
-**Skills:** Single cell RNA-seq analysis, machine learning (GLMs), WGCNA, GO & KEGG enrichment, R 
-**Packages:** Seurat, glmnet, hdWGCNA, clusterProfiler, ggplot2, circlize, pheatmap, UpSetR, dplyr, R.utils
+**Language:** R  
+**Skills:** Single cell RNA-seq analysis, machine learning (GLMs), WGCNA, GO & KEGG enrichment  
+**Packages:** Seurat, glmnet, hdWGCNA, clusterProfiler, ggplot2, circlize, pheatmap, UpSetR, dplyr, R.utils  
 
 ## RShiny App for Aging Atlas
 **App:** https://agingc.shinyapps.io/Aging_Atlas/  
