@@ -6,17 +6,7 @@ Welcome! My name is Aaron, I'm a bioinformatician who analyzes NGS data for user
 <br/> 
 Below are examples of some of my work over the past few years. If you'd like to get in touch me, feel free to connect with me on <a href="https://www.linkedin.com/in/amohammed2/">LinkedIn</a>!
 
-## Single Cell RNA-seq Analysis - Embryonic Mouse Hearts
-**Code:** https://github.com/ayayron117/scRNA-seq_mouse_cardiogenesis  
-**Description:** Single cell RNA-seq analysis for a project investigating how knocking out a certain gene affects heart development.  
-
-<p align="center">
-  <img width="300" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/5f0e59b6-00bd-4c49-8e04-2a4a6ef34d6d">
-  <img width="200" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/484cbd24-3476-450a-a08c-b8c50dd8dda5">
-  <img width="300" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/9abfc61e-0b97-4222-97cf-6c994549775d">
-</p>
-
-## Transcriptomic Aging Atlas 
+## *C.elegan* Transcriptomic Aging Atlas 
 **Pre-print:** https://www.biorxiv.org/content/10.1101/2023.02.28.530490v1.full (Accepted for publication in Nature Aging)  
 **Code:** https://github.com/ayayron117/Aging_Atlas  
 **Description:** Transcriptomic aging atlas for *C.elegan* worms that could be used for investigating and comparing age related changes that are associated with pro-longevity mechanisms at the cellular level.  
@@ -32,6 +22,16 @@ Below are examples of some of my work over the past few years. If you'd like to 
 **Description:**  This app can be used to compare gene expression and APA scores of genes from various genotypes.
 <p align="center">
   <img width="400" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/1e8a4a21-92dd-4405-ab3e-1e10e3853ffb">
+</p>
+
+## Single Cell RNA-seq Analysis - Embryonic Mouse Hearts
+**Code:** https://github.com/ayayron117/scRNA-seq_mouse_cardiogenesis  
+**Description:** Single cell RNA-seq analysis for a project investigating how knocking out a certain gene affects heart development.  
+
+<p align="center">
+  <img width="300" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/5f0e59b6-00bd-4c49-8e04-2a4a6ef34d6d">
+  <img width="200" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/484cbd24-3476-450a-a08c-b8c50dd8dda5">
+  <img width="300" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/9abfc61e-0b97-4222-97cf-6c994549775d">
 </p>
 
 ## Bulk RNA Seq Analysis Scripts
