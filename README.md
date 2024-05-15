@@ -7,7 +7,7 @@ Welcome! My name is Aaron, I'm a bioinformatician who analyzes NGS data for user
 Below are examples of some of my work over the past few years. If you'd like to get in touch me, feel free to connect with me on <a href="https://www.linkedin.com/in/amohammed2/">LinkedIn</a>!
 
 ## *C.elegan* Transcriptomic Aging Atlas 
-**Pre-print:** https://www.biorxiv.org/content/10.1101/2023.02.28.530490v1.full (Accepted for publication in Nature Aging)  
+**Pre-print:** https://www.biorxiv.org/content/10.1101/2023.02.28.530490v1.full (Accepted on April 10th, 2024 for publication in Nature Aging)  
 **Code:** https://github.com/ayayron117/Aging_Atlas  
 **Description:** Transcriptomic aging atlas for *C.elegan* worms that could be used for investigating and comparing age related changes that are associated with pro-longevity mechanisms at the cellular level.  
 <p align="center">
