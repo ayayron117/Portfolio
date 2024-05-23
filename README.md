@@ -17,8 +17,8 @@ Below are examples of some of my work over the past few years. If you'd like to 
 </p>
 
 **Language:** R  
-**Skills:** Single cell RNA-seq analysis, machine learning (GLMs), WGCNA
-**Packages:** Seurat, SingleCellExperiment, R.utils, glmnet, hdWGCNA, ggplot2, circlize, pheatmap, UpSetR  
+**Skills:** Single cell RNA-seq analysis, WGCNA  
+**Packages:** Seurat, SingleCellExperiment, hdWGCNA, ggplot2, circlize, pheatmap, UpSetR  
 
 ## RShiny App for *C.elegan* Aging Atlas
 **App:** https://agingc.shinyapps.io/Aging_Atlas/  
