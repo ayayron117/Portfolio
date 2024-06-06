@@ -28,7 +28,7 @@ Below are examples of some of my work over the past few years. If you'd like to 
   <img width="400" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/1e8a4a21-92dd-4405-ab3e-1e10e3853ffb">
 </p>
 
-**Languages:** R, HTML, CSS, javascript  
+**Languages:** R, HTML, CSS, JavaScript  
 **Skill:** Web app development  
 **Packages:** shiny, plotly, ggplot2, Seurat
 
