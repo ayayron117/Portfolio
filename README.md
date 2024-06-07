@@ -47,7 +47,9 @@ Below are examples of some of my work over the past few years. If you'd like to 
 **Code:** https://github.com/ayayron117/Bulk_RNA-seq  
 **Description:** A collection of scripts I wrote while carrying out bulk RNA seq analysis.
 <p align="center">
-</p>
+</p> 
+
+**Language:** R
 
 ## Machine Learning Project
 **Code:** https://github.com/ayayron117/machine_learning_project  
@@ -55,15 +57,22 @@ Below are examples of some of my work over the past few years. If you'd like to 
 <p align="center">
 </p>
 
+**Language:** R
+**Packages:** e1071, WGCNA  
+
 ## IDPAnalysis - R Package for Disorder Analysis of Proteins
 **Code:** https://github.com/ayayron117/old_portfolio/tree/main/IDPAnalysis
 **Description:** This is a package I created as an assignment for a course I took as a graduate student.
 <p align="center">
 </p>
 
+**Languages:** R
+**Packages:** RSelenium, ggplot2  
+
 ## Automation of Brainstorm Protocols 
 **Code:** https://github.com/ayayron117/Brainstorm_automation  
 **Description:** This is a MATLAB tool that can be used to automate and customize various Brainstorm protocols without having to interact with the GUI. Brainstorm is a MATLAB program for analyzing EEG data.
+**Language:** MATLAB
 
 ## Disorder Analysis of Proteins in a 2600-Year-Old Human Brain
 **Publication:** https://www.mdpi.com/2079-7737/11/12/1704  
