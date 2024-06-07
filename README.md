@@ -17,7 +17,6 @@ Below are examples of some of my work over the past few years. If you'd like to 
 </p>
 
 **Language:** R  
-**Skills:** Single cell RNA-seq analysis, WGCNA  
 **Packages:** Seurat, SingleCellExperiment, hdWGCNA, ggplot2, circlize, pheatmap, UpSetR  
 
 ## RShiny App for *C.elegan* Aging Atlas
@@ -29,7 +28,6 @@ Below are examples of some of my work over the past few years. If you'd like to 
 </p>
 
 **Languages:** R, HTML, CSS, JavaScript  
-**Skill:** Web app development  
 **Packages:** shiny, plotly, ggplot2, Seurat
 
 ## Single Cell RNA-seq Analysis - Embryonic Mouse Hearts
@@ -41,6 +39,9 @@ Below are examples of some of my work over the past few years. If you'd like to 
   <img width="200" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/484cbd24-3476-450a-a08c-b8c50dd8dda5">
   <img width="300" alt="image" src="https://github.com/ayayron117/Portfolio/assets/135864654/9abfc61e-0b97-4222-97cf-6c994549775d">
 </p>
+
+**Languages:** R, python  
+**Packages:** Seurat, DropletQC, scDblFinder, SingleR, velocyto.R, CellChat, ggplot2, reticulate, scvelo, scanpy, matplotlib  
 
 ## Bulk RNA Seq Analysis Scripts
 **Code:** https://github.com/ayayron117/Bulk_RNA-seq  
