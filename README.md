@@ -17,7 +17,7 @@ Below are examples of some of my work over the past few years. If you'd like to 
 </p>
 
 **Language:** R  
-**Packages:** Seurat, SingleCellExperiment, hdWGCNA, ggplot2, circlize, pheatmap, UpSetR  
+**Packages:** Seurat, glmnet, hdWGCNA, ggplot2, circlize, pheatmap, UpSetR  
 
 ## RShiny App for *C.elegan* Aging Atlas
 **App:** https://agingc.shinyapps.io/Aging_Atlas/  
