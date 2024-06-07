@@ -56,7 +56,7 @@ Below are examples of some of my work over the past few years. If you'd like to 
 </p>
 
 ## IDPAnalysis - R Package for Disorder Analysis of Proteins
-**Code:** https://github.com/ayayron117/IDPAnalysis  
+**Code:** https://github.com/ayayron117/old_portfolio/tree/main/IDPAnalysis
 **Description:** This is a package I created as an assignment for a course I took as a graduate student.
 <p align="center">
 </p>
