@@ -73,7 +73,7 @@ Below are examples of some of my work over the past few years. If you'd like to 
 </p>  
 
 ## Phase Boundaries of Quantum Impurity Models
-**Publication:** https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.045103  
+**Publication:** http://dx.doi.org/10.1103/PhysRevB.96.045103  
 https://arxiv.org/pdf/1702.06515.pdf    
 **Description:** Investigation of the phase boundaries of quantum phase transitions involved with the Kondo effect.
 <p align="center">
