@@ -4,7 +4,7 @@
 Welcome! My name is Aaron, I'm a bioinformatician who analyzes NGS data for users of the Innovative Genomics & Bioinformatics Core facility (<a href="https://my.creighton.edu/researchservices/corefacilities/innovativegenomicsbioinformaticscore/">IGBC</a>) within the Lynch Cancer Research Center (<a href="https://www.creighton.edu/medicine/research/research-centers-and-institutes/lynch-comprehensive-cancer-research-center">LCRC</a>) at Creighton University. I've held this position since October 3rd, 2022. My degrees include an MS degree in Bioinformatics & Computational Biology and a BS degree in Physics with a minor in Chemistry, both from the University of South Florida. 
 </div>
 <br/> 
-Below are examples of some of my work over the past few years. If you'd like to get in touch me, feel free to connect with me on <a href="https://www.linkedin.com/in/amohammed2/">LinkedIn</a>!
+Below are examples of some of my work over the past few years. If you'd like to get in touch with me, feel free to connect with me on <a href="https://www.linkedin.com/in/amohammed2/">LinkedIn</a>!
 
 ## *C.elegan* Transcriptomic Aging Atlas 
 **Publication:** https://doi.org/10.1038/s43587-024-00631-1  
